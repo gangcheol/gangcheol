@@ -19,6 +19,6 @@
 * [ggplot](https://doublekpark.blogspot.com/2019/03/11-ggplot2_2.html)
 * [LAB Hayoung](https://doublekpark.blogspot.com/2019/03/11-ggplot2_2.html)
 * [고급데이터시각화](https://guebin.github.io/STDV2021/)
-
+* [KoBERT](https://github.com/SKTBrain/KoBERT#naver-sentiment-analysis)
 * * *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
