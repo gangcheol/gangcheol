@@ -1,4 +1,6 @@
-# Master's degree at Chonbuk National University.
+# About me
+- Bachelor of Science in Statistic
+- Master of Science degree expected in Statistic
 ## Repositories
   - [github](https://github.com/gangcheol/)
   - [soundcloud](https://soundcloud.com/qfmtzwxyygft/albums)
