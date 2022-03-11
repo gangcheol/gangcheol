@@ -3,7 +3,7 @@
 - Master of Science degree expected in Statistic
 - email : rkdcjf8232@gmail.com
 * * *
-## Repositories
+## Blog
   - [github](https://github.com/gangcheol/)
   - [soundcloud](https://soundcloud.com/qfmtzwxyygft/albums)
   - [NLP](https://gangcheol.github.io/nlp-with-pytroch/)
