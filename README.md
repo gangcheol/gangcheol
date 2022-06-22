@@ -16,7 +16,7 @@
 * [R for Data Science](https://r4ds.had.co.nz/)
 * [anaconda R update](https://stackoverflow.com/questions/64158633/installing-r-4-0-2-version)
 * [ggplot](https://doublekpark.blogspot.com/2019/03/11-ggplot2_2.html)
-* [LAB Hayoung](https://doublekpark.blogspot.com/2019/03/11-ggplot2_2.html)
+* [LAB Hayoung](https://kimha02.github.io/ham/)
 * [고급데이터시각화](https://guebin.github.io/STDV2021/)
 * [KoBERT](https://github.com/SKTBrain/KoBERT#naver-sentiment-analysis)
 * * *
