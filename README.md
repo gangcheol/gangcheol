@@ -38,7 +38,3 @@
 ## Conctact
 
 `-` <rkdcjf8232@gmail.com>
-
-:::
-
-### 
