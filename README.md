@@ -1,23 +1,61 @@
-# About me
-- Bachelor of Science in Statistic
-- Master of Science degree expected in Statistic
-- email : rkdcjf8232@gmail.com
-* * *
-## Blog
-  - [github](https://github.com/gangcheol/)
-  - [NLP](https://gangcheol.github.io/nlp-with-pytroch/)
-  - [Data Mining](https://gangcheol.github.io/data-mining/)
-  - [Bigdata Analysis](https://gangcheol.github.io/big-data-analysis/)
+---
+title: "**About Me**"
+about:
+  id: hero-heading
+  template: jolla
+  image: cic.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/gangcheol/
+---
 
-* * *
-## 자주 참고하는 사이트
-* [ratsgo's blog](https://ratsgo.github.io/)
-* [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
-* [R for Data Science](https://r4ds.had.co.nz/)
-* [anaconda R update](https://stackoverflow.com/questions/64158633/installing-r-4-0-2-version)
-* [ggplot](https://doublekpark.blogspot.com/2019/03/11-ggplot2_2.html)
-* [LAB Hayoung](https://kimha02.github.io/ham/)
-* [고급데이터시각화](https://guebin.github.io/STDV2021/)
-* [KoBERT](https://github.com/SKTBrain/KoBERT#naver-sentiment-analysis)
-* * *
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+###
+
+:::{#hero-heading}
+
+## Education
+
+`-` 전북대학교 통계학과 학사(부전공: 컴퓨터공학) 졸업 | 2015. 03 ~ 2021. 02
+
+`-` 전북대학교 통계학과 석사 졸업 | 2021. 03 ~ 2023. 02
+
+## Experience
+
+`-` 국민연금공단 빅데이터부 현장실습 | 2020. 03 ~ 2020. 06
+ 
+`-` 지역 문화산업 융복합 데이터 전문가 과정 | 과학기술정보통신부, 한국데이터산업진흥원  | 2021. 06 ~ 2021. 08 
+
+`-` 에너지AI융합대학원 빅데이터 분석 특강 조교 | 전북대학교 AI에너지 융합대학원 |2021. 06 ~ 2021. 10
+
+`-` SPSS를 이용한 통계자료분석 특강 조교 | 전북대학교 통계학과 | 2022. 01 ~ 2022. 02
+
+`-` 데이터 준전문가 ADsP 특강 조교 | 전북대학교 통계학과 | 2022. 01 ~ 2022. 02
+
+
+## Publications
+
+`-` [데이터 분석을 통한 지역별 고령친화도 시각화](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002773972)
+
+    `-` 김영선, 강민구, 이강철 등  | 문화융복합아카이빙연구소 | 2021. 10 | 기록관리/보존 
+
+`-` [핵심어 추출 및 데이터 증강기법을 이용한 텍스트 분류 모델 성능 개선](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002890029)
+    
+    `-` 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
+    
+
+## Certificate
+
+`-` 워드프로세서 | 대한상공회의소 | 19-19-017981 | 2019. 08. 30
+
+`-` 데이터분석준전문가(ADsP) | 한국데이터진흥원 | ADsP-0223898 | 2019. 10. 01
+
+`-` 사회조사분석사 2급 | 한국산업인력공단 | 19201142418N | 2019. 10. 01
+    
+## Conctact
+
+`-` <rkdcjf8232@gmail.com>
+
+:::
+
+### 
