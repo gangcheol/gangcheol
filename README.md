@@ -1,19 +1,8 @@
----
-title: "**About Me**"
-about:
-  id: hero-heading
-  template: jolla
-  image: cic.png
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/gangcheol/
----
 
-###
+# About Me
 
-:::{#hero-heading}
-
+***
+#
 ## Education
 
 `-` 전북대학교 통계학과 학사(부전공: 컴퓨터공학) 졸업 | 2015. 03 ~ 2021. 02
