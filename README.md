@@ -16,6 +16,8 @@
 
 `-` 빅데이터 혁신공유대학사업 서포터즈 |전북대학교 빅데이터 현신공유대학사업| 2021. 07. 01 ~ 2021. 10. 31  
 
+`-`  KT AIVLE DX Consultant Track | 2023. 08. 08 ~   
+
 ## Publications
 
 `-` [데이터 분석을 통한 지역별 고령친화도 시각화](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002773972)
