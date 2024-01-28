@@ -22,11 +22,11 @@
 
 `-` [데이터 분석을 통한 지역별 고령친화도 시각화](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002773972)
 
-    `-` 김영선, 강민구, 이강철 등  | 문화융복합아카이빙연구소 | 2021. 10 | 기록관리/보존 
+    * 김영선, 강민구, 이강철 등  | 문화융복합아카이빙연구소 | 2021. 10 | 기록관리/보존 
 
 `-` [핵심어 추출 및 데이터 증강기법을 이용한 텍스트 분류 모델 성능 개선](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002890029)
     
-    `-` 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
+    * 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
     
 
 ## Certificate
