@@ -3,8 +3,6 @@
 
 **links**
 
-::: {.panel-tabset}
-
 ## lecture
 
 `1` [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)
@@ -48,5 +46,3 @@
 
 * 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
 
-
-:::
