@@ -23,6 +23,8 @@
 
 * AICE Associate
 
+***
+
 ## Skill
 
 * R ⭐⭐⭐⭐
@@ -80,6 +82,8 @@
 * Data Science
 
 * Growth Hacking
+
+* [soundcloud](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
 
 ***
 
