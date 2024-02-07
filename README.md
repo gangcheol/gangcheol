@@ -1,26 +1,5 @@
----
-title: "**About me**"
-about:
-  id : hero-heading
-  template: jolla
-  image: 증명사진.jpg
-  image-width : 10em
-  image-shape: round
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/gangcheol/
-    - icon : instagram
-      text : Instagram
-      href : https://www.instagram.com/c.i.c_subspace/
-    - icon : music-note-beamed
-      text : music
-      href : https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro
----
 
-###
-
-:::{#hero-heading}
+# About me
 
 ## contact
 
@@ -135,7 +114,3 @@ about:
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **5. Projects**</span>
 
 * [Mini Project 1 : 행동 데이터 분류 AI 모델링](https://gangcheol.github.io/projects/posts/mini%20projects/2023-09-20-00%20.%20Fine%20Watch.html)
-
-:::
-
-### 
