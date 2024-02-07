@@ -1,113 +1,52 @@
 
 # About Me
 
+**links**
 
-## contact
+::: {.panel-tabset}
 
-* E-mail : **rkdcjf8232@gmail.com**
+## lecture
 
-***
+`1` [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)
 
-## Education
+`2` [Special Topics in Data Visualization](https://gangcheol.github.io/mysite/posts/Lecture/STDV/2023-02-24-boxplot,%20histogram.html)
 
-* **전북대학교 통계학 학사**(부전공 : 컴퓨터공학) | 2015.03 ~ 2021.02
+`3` [Introduction to Python](https://gangcheol.github.io/mysite/posts/Lecture/IP/2023-08-01-01wk.html)
 
-* **전북대학교 통계학 석사**  | 2021.03 ~ 2023.02
+`4` [Special Topics in Big Data Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STBD/2022-03-08-(1%EC%A3%BC%EC%B0%A8).html)
 
-*** 
+`5` [Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)
 
-## Certificate
+`6` [Tableau Practice](https://gangcheol.github.io/TI2023/)
 
-* 사회조사분석사 2급
+`7` [DX Consultant Education](https://gangcheol.github.io/mysite2/)
 
-* 데이터분석준전문가(ADsP)
+## Study
 
-* AICE Associate
+`1` [ISLP Study](https://gangcheol.github.io/ISLP2023/)
 
-## Skill
-
-* R ⭐⭐⭐⭐
-
-* Python ⭐⭐⭐⭐
-
-* EXCEL  ⭐⭐⭐⭐
-
-* SPSS ⭐⭐⭐⭐
-
-* SQL  ⭐⭐⭐
-
-* JAVA, C  ⭐⭐
+`2` [Algorithm Study](https://gangcheol.github.io/IA2023/)
 
 
-*** 
-## Extracurricular Activities
+## mini projects
 
-* 국민연금공단 빅데이터부 현장실습 | 2020. 03 ~ 2020. 06
+`1` [mini project1 :  Fine Watch 계단오르기 행동감지 모델링링](https://gangcheol.github.io/projects/posts/mini%20projects/Fine%20Watch/2023-09-20-00%20.%20EDA%20,%20modeling.html)
 
-* 지역 문화산업 융복합 데이터 전문가 과정 | 과학기술정보통신부, 한국데이터산업진흥원 | 2021. 06 ~ 2021. 08
-
-* 빅데이터 혁신공유대학사업 서포터즈 |전북대학교 빅데이터 현신공유대학사업| 2021. 07. 01 ~ 2021. 10. 31
-
-* KT AIVLE School DX Consultant Track | KT | 2023. 08. 08 ~ 2024. 01. 25
-
-***
-
-## Publication
-
-* [데이터 분석을 통한 지역별 고령친화도 시각화](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002773972)
-
-	* 김영선, 강민구, 이강철 등  | 문화융복합아카이빙연구소 | 2021. 10 | 기록관리/보존 
-
-* [핵심어 추출 및 데이터 증강기법을 이용한 텍스트 분류 모델 성능 개선](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002890029)
-    
-	* 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
-    
-
-## Awards
-
-* 학회장상 | 한국통계학회 | 2023. 02. 22
-
-* AIVLE Big Project Practical | KT | 2024. 01. 25
-
-*** 
-
-
-## Interest
-
-* NLP
-
-* Action Recognition, Object Detection
-
-* Data Science
-
-* Growth Hacking
-
-***
-
-## My blog
-
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia;"> **1. Lecture**</span>
-
-* [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)
-
-* [Special Topics in Data Visualization](https://gangcheol.github.io/mysite/posts/Lecture/STDV/2023-02-24-boxplot,%20histogram.html)
-
-* [Introduction to Python](https://gangcheol.github.io/mysite/posts/Lecture/IP/2023-08-01-01wk.html)
-
-* [Special Topics in Big Data Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STBD/2022-03-08-(1%EC%A3%BC%EC%B0%A8).html)
-
-* [Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)
-
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **2. Tableau**</span>
-
-* [Tableau Practice](https://gangcheol.github.io/TI2023/)
-
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **3. DX**</span>
-
-* [DX Consultant Education](https://gangcheol.github.io/mysite2/)
-
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **4. Study**</span>
+## big projects
 
 * [ISLP Study](https://gangcheol.github.io/ISLP2023/)
 
 * [Algorithm Study](https://gangcheol.github.io/IA2023/)
+
+## publications
+
+`1` [데이터 분석을 통한 지역별 고령친화도 시각화](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002773972)
+
+* 김영선, 강민구, 이강철 등  | 문화융복합아카이빙연구소 | 2021. 10 | 기록관리/보존 
+
+`2` [핵심어 추출 및 데이터 증강기법을 이용한 텍스트 분류 모델 성능 개선](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002890029)
+
+* 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
+
+
+:::
