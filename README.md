@@ -1,6 +1,22 @@
-
-# "**About me**"
-
+---
+title: "**About me**"
+about:
+  id : hero-heading
+  template: jolla
+  image: 증명사진.jpg
+  image-width : 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/gangcheol/
+    - icon : instagram
+      text : Instagram
+      href : https://www.instagram.com/c.i.c_subspace/
+    - icon : music-note-beamed
+      text : music
+      href : https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro
+---
 
 ###
 
