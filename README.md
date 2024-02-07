@@ -7,13 +7,27 @@
 
 ***
 
+## Interest
+
+* NLP
+
+* Action Recognition, Object Detection
+
+* Data Science
+
+* Growth Hacking
+
+* [soundcloud](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
+
+***
+
 ## Education
 
 * **전북대학교 통계학 학사**(부전공 : 컴퓨터공학) | 2015.03 ~ 2021.02
 
 * **전북대학교 통계학 석사**  | 2021.03 ~ 2023.02
 
-*** 
+***
 
 ## Certificate
 
@@ -69,21 +83,6 @@
 * 학회장상 | 한국통계학회 | 2023. 02. 22
 
 * AIVLE Big Project Practical | KT | 2024. 01. 25
-
-*** 
-
-
-## Interest
-
-* NLP
-
-* Action Recognition, Object Detection
-
-* Data Science
-
-* Growth Hacking
-
-* [soundcloud](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
 
 ***
 
