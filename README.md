@@ -118,3 +118,5 @@
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **5. Projects**</span>
 
 * [Mini Project 1 : 행동 데이터 분류 AI 모델링](https://gangcheol.github.io/projects/posts/mini%20projects/2023-09-20-00%20.%20Fine%20Watch.html)
+
+* [Mini Project 2 : Fine Apple, 군집분석을 통한 고객 segment 개발](https://gangcheol.github.io/projects/posts/mini%20projects/Fine%20Apple/2023-09-26-00.%20EDA.html)
