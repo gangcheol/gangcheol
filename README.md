@@ -117,6 +117,6 @@
 
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **5. Projects**</span>
 
-* [mini project1 : Fine Watch, 계단오르기 행동감지 모델링](https://gangcheol.github.io/projects/posts/mini%20projects/2023-09-20-00%20.%20Fine%20Watch.html)
+* [mini project1 : Fine Watch, 계단오르기 행동감지 모델링](https://gangcheol.github.io/projects/posts/mini%20projects/Fine%20Watch/2023-09-20-00%20.%20EDA%20,%20modeling.html)
 
 * [mini project2 : Fine Apple, 군집분석을 통한 고객 segment 개발](https://gangcheol.github.io/projects/posts/mini%20projects/Fine%20Apple/2023-09-26-00.%20EDA.html)
