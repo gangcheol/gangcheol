@@ -124,3 +124,6 @@
 * [mini project3 :  AIVLE, 1:1 문의유형 자동분류 모델링 및 교육 인사이트 도출](https://gangcheol.github.io/projects/posts/mini%20projects/AIVLE/2023-10-16-00.%20%EB%AC%B8%EC%9D%98%20%EC%9C%A0%ED%98%95%20%EC%9E%90%EB%8F%99%EB%B6%84%EB%A5%98%20%EB%AA%A8%EB%8D%B8%EB%A7%81%20%EC%83%9D%EC%84%B1.html)
  
 * [mini project4 :  CCTV 차량인식, 실시간 신호등 제어 솔루션](https://gangcheol.github.io/projects/posts/mini%20projects/CCTV%20%EC%B0%A8%EB%9F%89%EC%9D%B8%EC%8B%9D/2023-10-23-00.%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%8B%A0%ED%98%B8%EB%93%B1%20%EC%A0%9C%EC%96%B4.html)
+
+* [mini project5] : 응급환자, 119 구급대원의 빠른병원선정을 위한 솔루션(https://gangcheol.github.io/projects/posts/mini%20projects/%EB%B3%91%EC%9B%90%EC%84%A0%EC%A0%95%20%EC%86%94%EB%A3%A8%EC%85%98/2023-10-30-00.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.html)
+
