@@ -127,3 +127,8 @@
 
 * [mini project5 : 응급환자, 119 구급대원의 빠른병원선정을 위한 솔루션](https://gangcheol.github.io/projects/posts/mini%20projects/%EB%B3%91%EC%9B%90%EC%84%A0%EC%A0%95%20%EC%86%94%EB%A3%A8%EC%85%98/2023-10-30-00.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.html)
 
+* [big project1 : Do Nation, 재난 기부 플랫폼 구축](https://gangcheol.github.io/projects/posts/big%20projects/Do,%20Nation/2023-11-05-00.%20%EA%B8%B0%ED%9A%8D%EC%84%9C.html)
+
+* [big project2 : AI PORT, 지능형 CCTV 기반 보안관리 솔루션](https://gangcheol.github.io/projects/posts/big%20projects/AI%20PORT/2023-12-12-00.%20AI%20PORT%20%EC%A0%9C%EC%95%88%EC%84%9C.html)
+
+
