@@ -111,9 +111,9 @@
 
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **4. Study**</span>
 
-* [ISLP Study](https://gangcheol.github.io/ISLP2023/)
+* [ISLP](https://gangcheol.github.io/ISLP2023/)
 
-* [Algorithm Study](https://gangcheol.github.io/IA2023/)
+* [Algorithm](https://gangcheol.github.io/IA2023/)
 
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **5. Projects**</span>
 
