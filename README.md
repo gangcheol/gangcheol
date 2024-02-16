@@ -111,7 +111,7 @@
 
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **4. Study**</span>
 
-* [ISLP](https://gangcheol.github.io/ISLP2023/)
+* [ISLP,  An introduction to statistical learning with python](https://gangcheol.github.io/ISLP2023/)
 
 * [Algorithm](https://gangcheol.github.io/IA2023/)
 
