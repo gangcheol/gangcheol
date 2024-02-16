@@ -1,7 +1,7 @@
 
 # About me
 
-## contact
+## Contact
 
 * E-mail : **rkdcjf8232@gmail.com**
 
