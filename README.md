@@ -129,6 +129,6 @@
 
 * [big project1 : Do Nation, 재난 기부 플랫폼 구축](https://gangcheol.github.io/projects/posts/big%20projects/Do,%20Nation/2023-11-05-00.%20%EA%B8%B0%ED%9A%8D%EC%84%9C.html)
 
-* [big project2 : AI PORT, 지능형 CCTV 기반 보안관리 솔루션](https://gangcheol.github.io/projects/posts/big%20projects/AI%20PORT/2023-12-12-00.%20AI%20PORT%20%EC%A0%9C%EC%95%88%EC%84%9C.html)
+* [big project2 : AI PORT, 지능형 CCTV 기반 보안관리 솔루션](https://gangcheol.github.io/projects/posts/big%20projects/AI%20PORT/2023-12-28-01.%20model%20train.html)
 
 
