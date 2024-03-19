@@ -1,6 +1,4 @@
 
-# About me
-
 ## Contact
 
 * E-mail : **rkdcjf8232@gmail.com**
@@ -10,8 +8,6 @@
 ## Interest
 
 * NLP
-
-* Action Recognition, Object Detection
 
 * Data Science
 
@@ -23,9 +19,9 @@
 
 ## Education
 
-* **전북대학교 통계학 학사**(부전공 : 컴퓨터공학) | 2015.03 ~ 2021.02
+* **전북대학교 통계학 학사**(부전공 : 컴퓨터공학) | GPA : 3.67 / 4.50 | 2015.03 ~ 2021.02
 
-* **전북대학교 통계학 석사**  | 2021.03 ~ 2023.02
+* **전북대학교 통계학 석사**  | GPA : 4.44 / 4.50 | 2021.03 ~ 2023.02
 
 ***
 
@@ -50,9 +46,6 @@
 * SPSS ⭐⭐⭐⭐
 
 * SQL  ⭐⭐⭐
-
-* JAVA, C  ⭐⭐
-
 
 *** 
 ## Extracurricular Activities
