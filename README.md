@@ -79,9 +79,7 @@
 
 ***
 
-## study
-
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia;"> **1. Lecture**</span>
+## 1. Lecture
 
 * [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)
 
@@ -93,21 +91,21 @@
 
 * [Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)
 
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **2. Tableau**</span>
+## 2. Tableau
 
 * [Tableau Practice](https://gangcheol.github.io/TI2023/)
 
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **3. DX**</span>
+## 3. DX
 
 * [DX Consultant Education](https://gangcheol.github.io/mysite2/)
 
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **4. Study**</span>
+## 4. Study
 
 * [ISLP,  An introduction to statistical learning with python](https://gangcheol.github.io/ISLP2023/)
 
 * [Algorithm](https://gangcheol.github.io/IA2023/)
 
-<span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia"> **5. Projects**</span>
+## 5. Projects
 
 * [mini project1 : Fine Watch, 계단오르기 행동감지 모델링](https://gangcheol.github.io/projects/posts/mini%20projects/Fine%20Watch/2023-09-20-00%20.%20EDA%20,%20modeling.html)
 
@@ -124,3 +122,6 @@
 * [big project2 : AI PORT, 지능형 CCTV 기반 보안관리 솔루션](https://gangcheol.github.io/projects/posts/big%20projects/AI%20PORT/2023-12-28-01.%20model%20train.html)
 
 
+## 6. Teaching
+
+* [Principle of Business Analytics](https://gangcheol.github.io/edu1/)
