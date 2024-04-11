@@ -80,7 +80,7 @@
 
 ***
 
-## My blog
+## study
 
 <span style = "font-family : NanumSquare; font-size : 1em; color : Fuchsia;"> **1. Lecture**</span>
 
