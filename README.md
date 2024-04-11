@@ -124,4 +124,6 @@
 
 ## 6. Teaching
 
+### 2024
+
 * [Principle of Business Analytics](https://gangcheol.github.io/edu1/)
