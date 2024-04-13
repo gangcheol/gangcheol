@@ -71,14 +71,6 @@
     
 ***
 
-## Awards
-
-* 학회장상 | 한국통계학회 | 2023. 02. 22
-
-* AIVLE Big Project Practical | KT | 2024. 01. 25
-
-***
-
 ## 1. Lecture
 
 * [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)
