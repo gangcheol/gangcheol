@@ -97,6 +97,7 @@
 
 * [Algorithm](https://gangcheol.github.io/IA2023/)
 
+* [Doodle...Doodle....](https://gangcheol.github.io/b2b/)
 ## 5. Projects
 
 * [mini project1 : Fine Watch, 계단오르기 행동감지 모델링](https://gangcheol.github.io/projects/posts/mini%20projects/Fine%20Watch/2023-09-20-00%20.%20EDA%20,%20modeling.html)
