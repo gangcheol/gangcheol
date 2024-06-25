@@ -9,7 +9,7 @@
 
 * Data Science
 
-* [soundcloud](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
+* [mixtape](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
 
 ***
 
