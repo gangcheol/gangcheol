@@ -78,11 +78,17 @@
 * [Special Topics in Big Data Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STBD/2022-03-08-(1%EC%A3%BC%EC%B0%A8).html)
 
 * [Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)
-* 
+
+* [Special Topics in Time Series Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STTS/2021-09-01-00.%20intro.html)
+
 * [Tableau Practice](https://gangcheol.github.io/TI2023/)
+
+***
 
 ## 2. AIVLE SCHOOL
 * [DX Consultant Education](https://gangcheol.github.io/mysite2/)
+
+***
 
 ## 3. Projects
 
@@ -107,6 +113,8 @@
 ### 2024
 
 * [Principle of Business Analytics](https://gangcheol.github.io/edu1/)
+
+***
 
 ## 5. etc
 
