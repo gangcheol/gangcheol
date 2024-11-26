@@ -122,5 +122,4 @@
 
 * [Algorithm](https://gangcheol.github.io/IA2023/)
 
-* [Doodle...Doodle....](https://gangcheol.github.io/b2b/)
-
+* [Growth Hacking](https://gangcheol.github.io/sql/)
