@@ -43,6 +43,8 @@
 
 * SPSS ⭐⭐⭐⭐
 
+* SQL ⭐⭐
+
 
 *** 
 ## Extracurricular Activities
