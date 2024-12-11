@@ -124,5 +124,3 @@
 * [ISLP,  An introduction to statistical learning with python](https://gangcheol.github.io/ISLP2023/)
 
 * [Algorithm](https://gangcheol.github.io/IA2023/)
-
-* [Growth Hacking](https://gangcheol.github.io/sql/)
