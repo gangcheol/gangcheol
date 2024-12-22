@@ -70,7 +70,7 @@
     
 ***
 
-## 1. Lecture
+## 1. Relevant Coursework
 
 * [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)
 
