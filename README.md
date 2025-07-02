@@ -20,29 +20,29 @@
 *** 
 ## Extracurricular Activities
 
-* Regional Cultural Industry Convergence Data Specialist Program  
-  Ministry of Science and ICT & Korea Data Agency  
+* Regional Cultural Industry Convergence Data Specialist Program Ministry of Science and ICT & Korea Data Agency  
   (Jun. 2021 – Aug. 2021)
 
-* Supporter, Big Data Innovation Sharing University Project  
-  Jeonbuk National University  
+* Supporter, Big Data Innovation Sharing University Project Jeonbuk National University  
   (Jul. 1, 2021 – Oct. 31, 2021)
 
-* DX Consultant Track, KT AIVLE School  
-  KT Corporation  
-  (Aug. 8, 2023 – Jan. 25, 2024)
+* DX Consultant Track, KT AIVLE School  KT Corporation (Aug. 8, 2023 – Jan. 25, 2024)
 
 ***
 
 ## Publication
 
-* [데이터 분석을 통한 지역별 고령친화도 시각화](https://gangcheol.github.io/projects/posts/publications/2021-10-05-P1.html)
+* [Visualization of Age-Friendliness by Region through Data Analysis](https://gangcheol.github.io/projects/posts/publications/2021-10-05-P1.html)  
+  Youngsun Kim, Mingoo Kang, Gangcheol Lee, et al.  
+  Institute of Cultural Convergence Archiving  
+  Oct. 2021  
+  Archival Science / Preservation
 
-	* 김영선, 강민구, 이강철 등  | 문화융복합아카이빙연구소 | 2021. 10 | 기록관리/보존 
-
-* [핵심어 추출 및 데이터 증강기법을 이용한 텍스트 분류 모델 성능 개선](https://gangcheol.github.io/projects/posts/publications/2023-02-22-P2.html)
-    
-	* 이강철, 안정용 | 한국자료분석학회 | 한국자료분석학회 | 2022. 10 | 통계학
+* [Improving Text Classification Performance Using Keyword Extraction and Data Augmentation Techniques](https://gangcheol.github.io/projects/posts/publications/2023-02-22-P2.html)  
+  Gangcheol Lee, Jungyong An  
+  Korean Association for Survey & Data Science (KASDS)  
+  Oct. 2022  
+  Statistics
     
 ***
 
