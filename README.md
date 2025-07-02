@@ -1,60 +1,36 @@
 
-## Contact
+## About me
 
+* Researcher at National Medical Center
 * E-mail : **rkdcjf8232@gmail.com**
 
 ***
 
 ## Interest
 
-* Data Science
-
-* [Mixtape](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
-
-* Growth Hacking
+  
 ***
 
 ## Education
 
-* 전북대학교
-  * 통계학(2015. 03 ~ 2021. 02, 학사), 컴퓨터공학(부)
-  * 통계학(2021. 03 ~ 2023. 02, 석사)
-
-***
-
-## Certificate
-
-* 사회조사분석사 2급
-
-* 데이터분석준전문가(ADsP)
-
-* AICE Associate
-
-* Toeic Speaking IH(140)
-
-***
-
-## Skill
-
-* R ⭐⭐⭐⭐
-
-* Python ⭐⭐⭐⭐
-
-* EXCEL  ⭐⭐⭐⭐
-
-* SPSS ⭐⭐⭐⭐
-
-* SQL ⭐⭐
-
+* Jeonbuk National University  
+  * B.S. in Statistics, Minor in Computer Science (Mar. 2015 – Feb. 2021)  
+  * M.S. in Statistics (Mar. 2021 – Feb. 2023)
 
 *** 
 ## Extracurricular Activities
 
-* 지역 문화산업 융복합 데이터 전문가 과정 | 과학기술정보통신부, 한국데이터산업진흥원 | 2021. 06 ~ 2021. 08
+* Regional Cultural Industry Convergence Data Specialist Program  
+  Ministry of Science and ICT & Korea Data Agency  
+  (Jun. 2021 – Aug. 2021)
 
-* 빅데이터 혁신공유대학사업 서포터즈 | 전북대학교 빅데이터 현신공유대학사업 | 2021. 07. 01 ~ 2021. 10. 31
+* Supporter, Big Data Innovation Sharing University Project  
+  Jeonbuk National University  
+  (Jul. 1, 2021 – Oct. 31, 2021)
 
-* KT AIVLE School DX Consultant Track | KT | 2023. 08. 08 ~ 2024. 01. 25
+* DX Consultant Track, KT AIVLE School  
+  KT Corporation  
+  (Aug. 8, 2023 – Jan. 25, 2024)
 
 ***
 
