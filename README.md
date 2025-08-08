@@ -43,7 +43,7 @@
 
 ---
 
-## 💼 대내외 활동
+## 💼 Extracurricular Pursuits
 
 * **National Pension Service** — *Data Analysis Assistant, Big Data Department*  
   *(Mar 2020 – Jun 2020)*  
