@@ -1,6 +1,6 @@
 # 👋 About Me
 
-**Researcher at National Medical Center**  
+😀 NOW: **Researcher at National Medical Center**  
 📧 E-mail: **rkdcjf8232@gmail.com**
 
 ---
