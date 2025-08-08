@@ -76,7 +76,8 @@
 
 ## 🎤 Lecture (2024)
 
-* [Principle of Business Analytics](https://gangcheol.github.io/edu1/)
+* [Principle of Business Analytics](https://gangcheol.github.io/edu1/) *(Partially Available)*
+
 
 ---
 
