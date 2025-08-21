@@ -70,7 +70,6 @@
 
 * [**AI PORT – Intelligent CCTV-Based Security Management System**](https://gangcheol.github.io/projects/posts/big%20projects/AI%20PORT/2024-01-05.04.%20prototype.html) 
 * [**Emergency Response – Supporting EMS for Fast Hospital Selection**](https://gangcheol.github.io/projects/posts/mini%20projects/%EB%B3%91%EC%9B%90%EC%84%A0%EC%A0%95%20%EC%86%94%EB%A3%A8%EC%85%98/2023-10-30-00.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0.html)  
-* [**Do Nation – Disaster Relief Donation Platform Development**](https://gangcheol.github.io/projects/posts/big%20projects/Do,%20Nation/2023-11-05-00.%20%EA%B8%B0%ED%9A%8D%EC%84%9C.html)
 
 ---
 
