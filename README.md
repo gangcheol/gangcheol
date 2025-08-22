@@ -74,7 +74,12 @@
 
 ---
 
-## 🎤 Lecture (2024)
+## 🎤 Lecture
+
+### 2025
+
+- Special Topics in R for Emergency Medical Services System
+### 2024
 
 * [Principle of Business Analytics](https://gangcheol.github.io/edu1/) *(Partially Available)*
 
