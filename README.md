@@ -81,14 +81,13 @@
 ---
 
 ## 📜 Certifications
-
-- Social Survey Analyst Level 2  
-- ADsP (Advanced Data Analytics Semi-Professional)  
-- AICE Associate  
-- SQLD (SQL Developer)  
+- Social Survey Analyst Level 2
 - Word Processor  
 - Computer Specialist in Spreadsheet & Database Level 2
-
+- ADsP (Advanced Data Analytics Semi-Professional)  
+- AICE Associate  
+- SQLD (SQL Developer)
+  
 ---
 
 ## 📫 Contact
