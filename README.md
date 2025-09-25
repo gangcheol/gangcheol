@@ -33,8 +33,19 @@
 
 ---
 
-## 📚 Relevant Coursework
 
+## 🎤 Study Website
+
+### 2025
+
+- [Special Topics in R for Emergency Medical Services System](https://gangcheol.github.io/RFE2025/home.html)
+
+### 2024
+
+* [Principle of Business Analytics](https://gangcheol.github.io/edu1/) *(Partially Available)*
+
+
+## 2015 ~ 2023
 - [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)  
 - [Special Topics in Data Visualization](https://gangcheol.github.io/mysite/posts/Lecture/STDV/2023-02-24-boxplot,%20histogram.html)  
 - [Introduction to Python](https://gangcheol.github.io/mysite/posts/Lecture/IP/2023-08-01-01wk.html)  
@@ -67,18 +78,6 @@
 
 ---
 
-
-## 🎤 Lecture
-
-### 2025
-
-- Special Topics in R for Emergency Medical Services System
-### 2024
-
-* [Principle of Business Analytics](https://gangcheol.github.io/edu1/) *(Partially Available)*
-
-
----
 
 ## 📜 Certifications
 - Social Survey Analyst Level 2
