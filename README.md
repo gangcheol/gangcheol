@@ -36,7 +36,8 @@
 
 ## 🎤 Study Website
 <details>
-<summary> ~2025</summary>
+  <summary> ~2025</summary>
+
 ### 2025
 
 - [Special Topics in R for Emergency Medical Services System](https://gangcheol.github.io/RFE2025/home.html)
