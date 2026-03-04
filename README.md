@@ -36,7 +36,7 @@
 
 ## 🎤 Study Website
 <details>
-  <summary> ###~2025</summary>
+  <summary> ~2025</summary>
 
 ### 2025
 
