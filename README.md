@@ -9,8 +9,9 @@
 ## 🎓 Education
 
 * **Jeonbuk National University**  
-  - **B.S. in Statistics**, Minor in Computer Science *(Mar 2015 – Feb 2021)*  
-  - **M.S. in Statistics** *(Mar 2021 – Feb 2023)*
+  - **Ph.D. in Statistics** *(Currently pursuing)*  
+  - **M.S. in Statistics** *(Mar 2021 – Feb 2023)*  
+  - **B.S. in Statistics**, Minor in Computer Science *(Mar 2015 – Feb 2021)*
 
 ---
 
