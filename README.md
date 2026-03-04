@@ -56,6 +56,7 @@
 - [Special Topics in Time Series Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STTS/2021-09-01-00.%20intro.html)  
 - [DX Consultant Education](https://gangcheol.github.io/mysite2/)
 </details>
+
 ---
 
 ## 💼 Extracurricular Pursuits
