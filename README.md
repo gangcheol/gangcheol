@@ -29,7 +29,7 @@
 
 ### 2026
 - [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
-
+- [etc.....](https://gangcheol.github.io/lgc/)
 <details>
   <summary> ~2025</summary>
 
