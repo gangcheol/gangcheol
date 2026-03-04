@@ -29,7 +29,7 @@
 
 ### 2026
 - [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
-- [Applied statistics(*main. Regression analysis*)]
+- [Applied statistics(*main. Regression analysis*)](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html)
 - [etc.....](https://gangcheol.github.io/lgc/)
 <details>
   <summary> ~2025</summary>
