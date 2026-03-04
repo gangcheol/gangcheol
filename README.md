@@ -28,9 +28,9 @@
 ## 🎤 Study Website
 
 ### 2026
-`1` [🔗 Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
+`1` [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
 
-`2` [🔗 Applied statistics (*main course. Regression analysis*)](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html)
+`2` [Applied statistics (*main course. Regression analysis*)](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html)
 
 [🔗 etc.....](https://gangcheol.github.io/lgc/)
 <details>
@@ -38,21 +38,21 @@
 
 ### 2025
 
-- [🔗 Special Topics in R for Emergency Medical Services System](https://gangcheol.github.io/RFE2025/home.html)
+- [Special Topics in R for Emergency Medical Services System](https://gangcheol.github.io/RFE2025/home.html)
 
 ### 2024
 
-* [🔗 Principle of Business Analytics](https://gangcheol.github.io/edu1/) *(Partially Available)*
+* [Principle of Business Analytics](https://gangcheol.github.io/edu1/) *(Partially Available)*
 
 
 ## 2015 ~ 2023
-- [🔗 R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)  
-- [🔗 Special Topics in Data Visualization](https://gangcheol.github.io/mysite/posts/Lecture/STDV/2023-02-24-boxplot,%20histogram.html)  
-- [🔗 Introduction to Python](https://gangcheol.github.io/mysite/posts/Lecture/IP/2023-08-01-01wk.html)  
-- [🔗 Special Topics in Big Data Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STBD/2022-03-08-(1%EC%A3%BC%EC%B0%A8).html)  
-- [🔗 Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)  
-- [🔗 Special Topics in Time Series Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STTS/2021-09-01-00.%20intro.html)  
-- [🔗 DX Consultant Education](https://gangcheol.github.io/mysite2/)
+- [R for Data Science](https://gangcheol.github.io/mysite/posts/Lecture/RFD/%ED%86%B5%EA%B3%84%EB%B6%84%EC%84%9D/2021-06-01-01.%20sampling.html)  
+- [Special Topics in Data Visualization](https://gangcheol.github.io/mysite/posts/Lecture/STDV/2023-02-24-boxplot,%20histogram.html)  
+- [Introduction to Python](https://gangcheol.github.io/mysite/posts/Lecture/IP/2023-08-01-01wk.html)  
+- [Special Topics in Big Data Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STBD/2022-03-08-(1%EC%A3%BC%EC%B0%A8).html)  
+- [Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)  
+- [Special Topics in Time Series Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STTS/2021-09-01-00.%20intro.html)  
+- [DX Consultant Education](https://gangcheol.github.io/mysite2/)
 </details>
 
 ---
