@@ -6,15 +6,6 @@
 
 ---
 
-## 🎯 Interest
-- Data-driven healthcare system design  
-- Emergency medical service (EMS) optimization  
-- Statistical modeling & data visualization  
-- Machine learning & AI for public health and disaster response
-- [2nd Mixtape](https://soundcloud.com/qfmtzwxyygft/sets/cic-2nd-mixtape-outro)
-
----
-
 ## 🎓 Education
 
 * **Jeonbuk National University**  
