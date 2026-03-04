@@ -25,7 +25,7 @@
 ---
 
 
-## 🎤 Study Website
+## 🎤 Archive
 
 ### 2026
 `1` [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
