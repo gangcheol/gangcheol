@@ -35,7 +35,8 @@
 
 
 ## 🎤 Study Website
-
+<details>
+<summary> ~2025</summary>
 ### 2025
 
 - [Special Topics in R for Emergency Medical Services System](https://gangcheol.github.io/RFE2025/home.html)
@@ -53,7 +54,7 @@
 - [Special Topics in Machine Learning](https://gangcheol.github.io/mysite/posts/Lecture/STML/2022-01-27-Intro.html)  
 - [Special Topics in Time Series Analysis](https://gangcheol.github.io/mysite/posts/Lecture/STTS/2021-09-01-00.%20intro.html)  
 - [DX Consultant Education](https://gangcheol.github.io/mysite2/)
-
+</details>
 ---
 
 ## 💼 Extracurricular Pursuits
