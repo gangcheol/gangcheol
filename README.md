@@ -35,6 +35,10 @@
 
 
 ## 🎤 Study Website
+
+### 2026
+- [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
+
 <details>
   <summary> ~2025</summary>
 
