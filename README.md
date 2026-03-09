@@ -29,9 +29,12 @@
 ## 🎤 Archive
 
 ### 2026
-`1` [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
 
-`2` [Applied statistics](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html) (*main course. Regression analysis*)
+`1` [Introduction to Statistics](https://gangcheol.github.io/IS2026/)
+
+`2` [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
+
+`3` [Applied statistics](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html) (*main course. Regression analysis*)
 
 [🔗 etc.....](https://gangcheol.github.io/lgc/)
 <details>
