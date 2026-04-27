@@ -34,7 +34,7 @@
 
 `2` [Special Topics in Theoretical Statistics](https://gangcheol.github.io/TS2026/)
 
-`3` [Applied statistics](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html) (*main course. Regression analysis*)
+`3` [Applied statistics](https://gangcheol.github.io/AS2026/posts/00.%20Intro.html](https://gangcheol.github.io/AS2026/)) (*main course. Regression analysis*)
 
 [🔗 etc.....](https://gangcheol.github.io/lgc/)
 <details>
