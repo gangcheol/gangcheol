@@ -2,7 +2,7 @@
 
 😀 Currently: **Statistical Researcher at National Medical Center**
 
-📧 E-mail: **rkdcjf8232@gmail.com**
+📧 E-mail: **rkdcjf8232@nmc.or.kr**
 
 ---
 
