@@ -1,6 +1,6 @@
 # 👋 About Me
 
-😀 Currently: **Statistical Researcher at National Medical Center**
+😀 Currently: **Researcher at National Medical Center**
 
 📧 E-mail: **rkdcjf8232@nmc.or.kr**
 
